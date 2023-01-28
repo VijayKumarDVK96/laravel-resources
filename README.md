@@ -6,11 +6,12 @@
 This project comprises of the helpers, components, functionalities that is being used for laravel application.
 
 > **Laravel Version:** >= Laravel v8.83.27
+
 > **PHP Version:** >= PHP v7.4.29
 
 # Components
 
- - Stripe
+ - [Stripe](https://github.com/VijayKumarDVK96/laravel-resources/blob/master/readme/stripe.md)
 
 # Common Steps
 

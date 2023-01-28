@@ -8,7 +8,9 @@ Stripe is a most familiar and commonly used payment gateway. Laravel provides en
 A simple scenario is created for payment handling. A set of random products with product name, price, description, and image where user can buy any product by selecting it and can paid online.
 
 > **Controller:** StripeController
-> **Model:** Product
-> **Factory:** ProductFactory
-> **Migration:** CreateProductsTable
 
+> **Model:** Product
+
+> **Factory:** ProductFactory
+
+> **Migration:** CreateProductsTable

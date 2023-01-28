@@ -5,8 +5,8 @@
 
 This project comprises of the helpers, components, functionalities that is being used for laravel application.
 
-> **Laravel Version:** >= Laravel v8.83.27
-> **PHP Version:** >= PHP v7.4.29
+> **Laravel Version:** Laravel v8.83.27
+> **PHP Version:** PHP v7.4.29
 
 # Components
 

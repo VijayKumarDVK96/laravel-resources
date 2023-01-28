@@ -5,9 +5,15 @@
 
 This project comprises of the helpers, components, functionalities that is being used for laravel application.
 
-**Laravel Version:** >= Laravel v8.83.27
-**PHP Version:** >= PHP v7.4.29
+> **Laravel Version:** >= Laravel v8.83.27
+> **PHP Version:** >= PHP v7.4.29
 
 # Components
+
  - Stripe
 
+# Common Steps
+
+1. Run the migrations.
+
+2. Add authentication for the project using **composer require laravel/ui --dev** and **php artisan ui:auth** commands.

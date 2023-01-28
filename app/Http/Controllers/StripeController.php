@@ -5,14 +5,6 @@ namespace App\Http\Controllers;
 use App\Models\Product;
 use Illuminate\Http\Request;
 
-// composer require laravel/cashier
-
-// composer require laravel/ui --dev
-// php artisan ui:auth
-
-// php artisan make:factory ProductFactory --model=Product
-// php artisan db:seed
-
 class StripeController extends Controller {
 
     function products() {

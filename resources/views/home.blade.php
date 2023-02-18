@@ -9,7 +9,7 @@
 
                 <div class="card-body">
                     <ul>
-                        <li><a href="{{url('stripe')}}">Stripe Payment Gateway</a></li>
+                        <li><a href="{{url('stripe/products')}}">Stripe Payment Gateway</a></li>
                     </ul>
                 </div>
             </div>

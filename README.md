@@ -12,6 +12,7 @@ This project comprises of the helpers, components, functionalities that is being
 # Components
 
  - [Stripe](https://github.com/VijayKumarDVK96/laravel-resources/blob/master/readme/stripe.md)
+ - [Passport](https://github.com/VijayKumarDVK96/laravel-resources/blob/master/readme/passport.md)
 
 # Common Steps
 
